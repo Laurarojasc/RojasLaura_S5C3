@@ -31,8 +31,9 @@ int main()
   b = 4;
  
   int mult = multiplicar(a,b);
+  int d = Alcuadrado(a);
   
-  cout << "La multiplicacion es: " << mult<< " y la La variable a al cuadrado es:" << Alcuadrado << endl;   
+  cout << "La multiplicacion es: " << mult<< " y la La variable a al cuadrado es:" << d << endl;   
           
   return 0;
 }
