@@ -12,7 +12,7 @@ int main(){
     numeroal = rand() % 100 + 1;
     cout << i << " " << numeroal << endl;
     
-    if (numero1al%2==0 && numeroal<89 && i<25)
+    if (numeroal%2==0 && numeroal<89 && i<25)
     { int x = numeroal;
     cout << " los numeros son" << x << endl;
     }	 	 
