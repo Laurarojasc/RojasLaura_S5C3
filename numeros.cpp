@@ -10,7 +10,7 @@ int main(){
   int i, numeroal;
   for(i=0;i<1000;i++){
     numeroal = rand() % 100 + 1;
-    cout << i << " " << numeroal << endl;
+    //cout << i << " " << numeroal << endl;
     
     if (numeroal%2==0 && numeroal<89 && i<25)
     { int x = numeroal;
